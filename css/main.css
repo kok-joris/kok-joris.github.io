@@ -24,33 +24,36 @@ a:hover {
 }
 h1 {
 /*     font-size: 2em;  */
-    font-size: 1.5em; 
+    font-size: 2.5em; 
     font-family: 'Lato', sans-serif;
 }
 h2 {
 /*     font-size: 1.5em; */
-    font-size: 1.35em;
+    font-size: 2.25em;
     font-family: 'Lato', sans-serif;
 }
 p {
     font-family: 'Lato', sans-serif;
-    font-size: 1.2em;
+    font-size: 2em;
     line-height: 1.4em;
     color: #333;
 }
 footer {
     border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+/*     font-size: .8em; */
+    font-size: 1.6em;
 }
 
 ul.posts { 
     font-family: 'Lato', sans-serif;
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+/*     font-size: 1.5em; */
+    font-size: 2.5em;
 }
 
 ul.posts li {
     font-family: 'Lato', sans-serif;
-    font-size: 1.5em;
+    font-size: 2.5em;
+/*     font-size: 1.5em; */
     list-style: none;
 }
