@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
-    width: 50%;
+/*     width: 50%; */
+    width: 85%;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -15,17 +16,20 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #3d85c6;
+/*     color: #3d85c6; */
+    color: #0e76e6;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 2em;
+/*     font-size: 2em;  */
+    font-size: 1.5em; 
     font-family: 'Lato', sans-serif;
 }
 h2 {
-    font-size: 1.5em;
+/*     font-size: 1.5em; */
+    font-size: 1.35em;
     font-family: 'Lato', sans-serif;
 }
 p {
